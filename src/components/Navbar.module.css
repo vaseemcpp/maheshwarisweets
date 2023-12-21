@@ -1,0 +1,16 @@
+.Navbar{
+    background-color: #DAC0A3;
+}
+
+.logo{
+    height: 90px;
+    width: 135px;
+    border-radius: 48%;
+}
+
+.cart{
+    height: 40px;
+    width: 40px;
+    margin-left: 10px;
+    cursor: pointer;
+}

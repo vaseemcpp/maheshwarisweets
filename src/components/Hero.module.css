@@ -1,0 +1,19 @@
+/* .Hero{
+    background-image: url("../assets/heroimg.webp");
+    padding-right: 0;
+}
+.background-image{
+    width: 100%;
+} */
+
+.Hero{
+    background-image: url("../assets/heroimg.webp");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 90%;
+    font-family:  var(--bs-body-font-family);
+    
+    
+
+}
